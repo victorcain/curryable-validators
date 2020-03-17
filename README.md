@@ -1,0 +1,1 @@
+# validate-functional-style
